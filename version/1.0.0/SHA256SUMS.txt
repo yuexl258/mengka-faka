@@ -1,0 +1,4 @@
+74815ec347348ea74a9d74ecea88316ac47bb78b12e9ab45ada0e0efd442ff4f  windows-amd64/mengka-faka.exe
+feda7922048a5c5a7e5cb0c3e715ff63a6a239bb18592b74a6e9920cb578f603  linux-amd64/mengka-faka
+797af736e0ca23359708e388220b9fc470a2361979f32ea716b034ddcfed45b2  mengka-faka-1.0.0-windows-amd64.zip
+970b040548af9286eb7d47b9e793e0a604295e2ef39d1a928867cab5fa8b61d1  mengka-faka-1.0.0-linux-amd64.zip
