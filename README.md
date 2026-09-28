@@ -8,7 +8,7 @@
 
 ## 1. 解压并启动
 
-1. 在 [1.0.0 版本页面](https://github.com/yuexl258/mengka-faka/releases/tag/v1.0.0) 下载对应系统的压缩包并解压到单独目录；也可从 `version/1.0.0/windows-amd64` 或 `version/1.0.0/linux-amd64` 获取程序。当前提供 Windows x64 和 Linux x64 版本。
+1. 在 [1.0.0 版本目录](https://github.com/yuexl258/mengka-faka/tree/main/version/1.0.0) 下载对应系统的压缩包并解压到单独目录；也可从 `version/1.0.0/windows-amd64` 或 `version/1.0.0/linux-amd64` 获取程序。当前提供 Windows x64 和 Linux x64 版本，可用同目录的 `SHA256SUMS.txt` 校验下载文件。
 2. 在程序所在目录启动服务。Windows 可双击 `mengka-faka.exe`，也可在 PowerShell 中执行 `.\mengka-faka.exe`；Linux 执行 `chmod +x mengka-faka && ./mengka-faka`。请保持程序运行；关闭终端或进程会停止管理端和机器人服务。
 3. 首次在服务器本机浏览器打开 `http://localhost:5678`。设置管理员账号、至少 12 位的密码和管理端端口，点击“完成初始化”。程序会自动重启，浏览器将跳转到所选端口；若未自动跳转，请手动访问该端口并登录。
 
